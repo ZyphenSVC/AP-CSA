@@ -1,0 +1,4 @@
+### Question 1
+#### What is a code comment?
+
+> A way to give notes to the reader to explain what your code is doing
