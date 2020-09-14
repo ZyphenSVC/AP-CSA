@@ -7,7 +7,7 @@
 
 ### Question 2
 #### What is wrong with the following code?
-```
+```java
 String s;
 System.out.println(s);
 ```
@@ -15,7 +15,7 @@ System.out.println(s);
 
 ### Question 3
 #### What is wrong with the following code?
-```
+```java
 String s = nextLine();
 ```
 > Should be: String s = scan.nextLine();
@@ -31,7 +31,7 @@ String s = nextLine();
 
 ### Question 6
 #### What will be printed to the screen when the following code runs?
-```
+```java
 String s1 = "three";
 String s2 = "five";
 System.out.print(s1 + s2);

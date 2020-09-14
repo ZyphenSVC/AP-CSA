@@ -9,7 +9,7 @@ Hi
 There
 ```
 #### You would need to use:
-```
+```java
 System.out._____ ("Hi");
 System.out.print("There");
 ```

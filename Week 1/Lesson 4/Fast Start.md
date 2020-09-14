@@ -1,6 +1,6 @@
 ### Question 1
 #### Assume the following has been typed in:
-```
+```java
 Scanner scan = new Scanner(System.in);
 ```
 #### Which line of code declares an int x and sets it equal to input from the user?

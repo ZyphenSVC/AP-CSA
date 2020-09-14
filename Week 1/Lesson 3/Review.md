@@ -4,7 +4,7 @@
 
 ### Question 2
 #### What is wrong with the code below?
-```
+```java
 int x = 67.21;
 ```
 > You cannot store a double in an int variable.
@@ -23,7 +23,7 @@ int x = 67.21;
 
 ### Question 6
 #### Consider the following code:
-```
+```java
 int y = 2147483647;
 y = y + 1;
 System.out.println(y);

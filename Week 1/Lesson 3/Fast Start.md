@@ -1,6 +1,6 @@
 ### Question 1
 #### The following code is to be used to get the name of a street from the user.
-```
+```java
 Scanner scan = new Scanner(System.in);
 String streetName;
 System.out.println("Enter Street name");
@@ -11,7 +11,7 @@ System.out.println("Enter Street name");
 
 ### Question 2
 #### Suppose the variable n is used to store the String "Maeve" as shown:
-```
+```java
 String n = "Maeve";
 ```
 #### Which of the following will print "Hello my name is Maeve"?
