@@ -6,7 +6,7 @@
 ### Question 2
 #### What does a Karel run method look like?
 
-> ```
+> ```java
 > public void run()
 > {
 >     //code 
