@@ -42,11 +42,13 @@ System.out.print("There");
 
 ### Question 9
 #### Which of the following are primitive data types?
-#### I. double
-#### II. String
-#### III. boolean
-> I and III only 
+```
+I. double
+II.String
+III.boolean
+```
+> They hold only one piece of data at a time. 
 
 ### Question 10
-#### Put the following data types in order from largest to smallest (in terms of memory used).
-> String, double, int, boolean
+#### Which of the following is true about primitive data types?
+> They hold only one piece of data at a time. 
