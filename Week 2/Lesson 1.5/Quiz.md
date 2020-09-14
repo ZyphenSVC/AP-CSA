@@ -1,0 +1,12 @@
+### Question 1
+#### Which method will teach Karel how to spin in a circle one time?
+
+> ```
+> private void spin()
+> {
+>     turnLeft();
+>     turnLeft();
+>     turnLeft();
+>     turnLeft();
+> }
+> ```
