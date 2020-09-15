@@ -7,3 +7,4 @@ Using CodeHS and Edhesive
 | Week 2 | CodeHS | 1.1 - 1.9 |
 | Week 3 | CodeHS | 1.10 - 1.17 |
 | Week 4 | Edhesive | 1.5 - Test  |
+| Week 5 | Edhesive | 2.1 - 2.4  |
